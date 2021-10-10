@@ -1,0 +1,7 @@
+﻿  GraphicObject.cpp
+C:\Users\DooF\Documents\projects\opengl\lab2\lab1\GraphicObject.cpp(21,39): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\DooF\Documents\projects\opengl\lab2\lab1\GraphicObject.cpp(21,29): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\DooF\Documents\projects\opengl\lab2\lab1\GraphicObject.cpp(21,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\DooF\Documents\projects\opengl\lab2\lab1\GraphicObject.cpp(65,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\DooF\Documents\projects\opengl\lab2\lab1\GraphicObject.cpp(66,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  lab1.vcxproj -> C:\Users\DooF\Documents\projects\opengl\lab2\Debug\lab1.exe
